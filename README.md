@@ -8,10 +8,10 @@
 
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/chandrika">
+  <a href="https://github.com/chandri02">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/chandrika">
+  <a href="https://www.linkedin.com/in/chandrikam018">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -24,4 +24,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark)
 
 <br>
-⭐️ From [Chandrika](https://github.com/yourusername)
+⭐️ From [Chandrika](https://github.com/chandri02)

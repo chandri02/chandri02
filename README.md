@@ -3,7 +3,7 @@
 - 🎓 I’m currently studying Information Technology at Bannari Amman Institute of Technology
 - 🌱 I’m currently learning React and the MEAN stack
 - 💬 Ask me anything about C, C++, Java, HTML, CSS, React, and the MEAN stack
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [chandrika.it22@bitsathy.ac.in]
 - ⚡ Fun fact: I enjoy solving coding challenges in my free time
 
 ### Connect with me:
